@@ -1,0 +1,15 @@
+current directory: /Users/shimatanisusumushi/Downloads/bulma/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/shimatanisusumushi/.rbenv/versions/2.6.3/bin/ruby -I /Users/shimatanisusumushi/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20200614-32509-1o887j1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/shimatanisusumushi/Downloads/bulma/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/shimatanisusumushi/Downloads/bulma/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/shimatanisusumushi/Downloads/bulma/vendor/bundle/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200614-32509-1ac4g1l/bootsnap
